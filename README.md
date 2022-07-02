@@ -1,2 +1,2 @@
-# project-e-commerce-front-end
-Projeto de criar o front-end de um e-commerce utilizando angular
+# Criando o front-end de um e-commerce utilizando angular
+Projeto de criar o front-end de um e-commerce utilizando angular.
